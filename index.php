@@ -1,5 +1,5 @@
 <?php
-$grades =109;
+$grades =1010;
 
 if ($grades<=100 && $grades <=98) 
 { 
